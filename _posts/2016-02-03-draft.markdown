@@ -22,3 +22,10 @@ One nice thing about Angular is dependency injection. If your module depends on 
 ## The result
 
 This improved our load time, but not by much. The extraneous modules weren't that large in the grand scheme of things.
+
+# Use async and defer attributes in script tags
+
+The `async` and `defer` attributes allow JavaScript to be downloaded without blocking the browser's HTML parser. Our HTML file contained a script that didn't manipulate the DOM and had no dependencies. I added the async attribute to the script tag so HTML would keep parsing while the file was downloading. I moved all scripts to the bottom of the page, and added the defer attribute to remaining scripts.
+
+## The result
+This didn't improve the page much since we didn't have much markup to parse. Angular generates most of the markup after the DOM is ready.
