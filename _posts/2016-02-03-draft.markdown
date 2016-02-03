@@ -16,4 +16,9 @@ The first thing I noticed was our app's page had JavaScript files included that 
 Removing the Device and System module dependencies broke our app.
 
 ## The solution
+
 One nice thing about Angular is dependency injection. If your module depends on another, just include that module into your module's declaration. One bad thing about Angular is dependency injection. If your module depends on A, and A depends on B, you have an implicit dependency on B in your module. This makes tracing dependencies less transparent than it seems. I listed out all the dependencies of our module and for the Device and System modules and found the differences. Through some trial and error, I included only the necessary missing dependencies and removed their files from our page.
+
+## The result
+
+This improved our load time, but not by much. The extraneous modules weren't that large in the grand scheme of things.
