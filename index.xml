@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tristin forbus</title>
+    <link>http://tristinforbus.com/</link>
+    <description>Recent content on tristin forbus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2023 18:41:44 -0800</lastBuildDate>
+    <atom:link href="http://tristinforbus.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schemaless Postgres</title>
+      <link>http://tristinforbus.com/posts/schemaless-postgres/</link>
+      <pubDate>Sun, 03 Dec 2023 18:41:44 -0800</pubDate>
+      <guid>http://tristinforbus.com/posts/schemaless-postgres/</guid>
+      <description>I stumbled across a link on HackerNews that Reddit&amp;rsquo;s database has two tables. Inside was a blog post from 2012 that referenced a presentation by Steve Huffman from 2010. The interesting thing is how Reddit effectively had no schema for their data, even though they were (at least at the time) using Postgres for storage. The gist is there are two tables. One table has the metadata about every thing that Reddit has: users, subreddits, comments, etc.</description>
+    </item>
+  </channel>
+</rss>
