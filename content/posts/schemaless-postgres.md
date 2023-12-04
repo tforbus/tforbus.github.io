@@ -1,7 +1,6 @@
 ---
 title: "Schemaless Postgres"
 date: 2023-12-03T18:41:44-08:00
-draft: true
 tags: ["database", "nosql", "postgres"]
 ---
 

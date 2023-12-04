@@ -6,6 +6,28 @@
     <description>Recent content in Tags on tristin forbus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2023 18:41:44 -0800</lastBuildDate>
     <atom:link href="http://tristinforbus.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>database</title>
+      <link>http://tristinforbus.com/tags/database/</link>
+      <pubDate>Sun, 03 Dec 2023 18:41:44 -0800</pubDate>
+      <guid>http://tristinforbus.com/tags/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>nosql</title>
+      <link>http://tristinforbus.com/tags/nosql/</link>
+      <pubDate>Sun, 03 Dec 2023 18:41:44 -0800</pubDate>
+      <guid>http://tristinforbus.com/tags/nosql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>postgres</title>
+      <link>http://tristinforbus.com/tags/postgres/</link>
+      <pubDate>Sun, 03 Dec 2023 18:41:44 -0800</pubDate>
+      <guid>http://tristinforbus.com/tags/postgres/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
