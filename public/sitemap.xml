@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://tristinforbus.com/posts/evolution-of-web-development/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tristinforbus.com/tags/html/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tristinforbus.com/tags/javascript/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tristinforbus.com/posts/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tristinforbus.com/tags/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tristinforbus.com/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tristinforbus.com/tags/webdev/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://tristinforbus.com/tags/database/</loc>
     <lastmod>2023-12-03T18:41:44-08:00</lastmod>
   </url><url>
@@ -11,16 +32,7 @@
     <loc>http://tristinforbus.com/tags/postgres/</loc>
     <lastmod>2023-12-03T18:41:44-08:00</lastmod>
   </url><url>
-    <loc>http://tristinforbus.com/posts/</loc>
-    <lastmod>2023-12-03T18:41:44-08:00</lastmod>
-  </url><url>
     <loc>http://tristinforbus.com/posts/schemaless-postgres/</loc>
-    <lastmod>2023-12-03T18:41:44-08:00</lastmod>
-  </url><url>
-    <loc>http://tristinforbus.com/tags/</loc>
-    <lastmod>2023-12-03T18:41:44-08:00</lastmod>
-  </url><url>
-    <loc>http://tristinforbus.com/</loc>
     <lastmod>2023-12-03T18:41:44-08:00</lastmod>
   </url><url>
     <loc>http://tristinforbus.com/archives/</loc>

@@ -1,6 +1,6 @@
 ---
 title: "Evolution of web development"
-date: 2023-12-17T09:27:40-08:00
+date: 2023-12-17
 url: "/posts/evolution-of-web-development"
 tags: ["html", "javascript", "webdev"]
 ---
