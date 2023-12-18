@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>javascript on tristin forbus</title>
+    <link>http://tristinforbus.com/tags/javascript/</link>
+    <description>Recent content in javascript on tristin forbus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://tristinforbus.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evolution of web development</title>
+      <link>http://tristinforbus.com/posts/evolution-of-web-development/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://tristinforbus.com/posts/evolution-of-web-development/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.ariel.com.au/jokes/The_Evolution_of_a_Programmer.html&#34;&gt;Evolution of a programmer&lt;/a&gt; joke exists for many different languages. I think there&amp;rsquo;s also room here for evolution of a web developer. I grew up making websites during the Web 1.0 era for fun, began developing professionally in the 2010s, and have been doing mostly web stuff ever since. It&amp;rsquo;s 2023 now, so I&amp;rsquo;ve been twiddling with HTML for over 20 years at this point.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
